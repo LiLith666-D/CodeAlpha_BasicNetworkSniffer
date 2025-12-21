@@ -36,10 +36,10 @@ sudo python3 -m src.sniffer
 ```
 Output
 
-    Packet details are shown in the terminal
-
-    Each run creates a new CSV file containing captured packet information
-
+Packet details are shown in the terminal
+```
+sniffer_log_2025-12-21_13-17-00.csv
+```
 Note
 
 This project is created for educational purposes only.
@@ -48,4 +48,5 @@ Use it only on networks you own or have permission to monitor.
 Author
 
 LiLith666
+
 CodeAlpha Cyber Security Internship – Task 1
