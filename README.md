@@ -44,15 +44,11 @@ Output
 
 ## Learning Outcomes
 
--> Practical understanding of network packet structures
-
--> Hands-on experience with packet sniffing using Scapy
-
--> Understanding of Transmission Control Protocol and User Datagram Protocol
-
--> Exposure to real-world encrypted network traffic
-
--> Improved fundamentals of networking and cybersecurity 
+- Practical understanding of network packet structures
+- Hands-on experience with packet sniffing using Scapy
+- Understanding of Transmission Control Protocol and User Datagram Protocol
+- Exposure to real-world encrypted network traffic
+- Improved fundamentals of networking and cybersecurity 
 
 ---
 
