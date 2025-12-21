@@ -42,7 +42,7 @@ Output
 
 ---
 
-##Learning Outcomes
+## Learning Outcomes
 
 -> Practical understanding of network packet structures
 
@@ -56,7 +56,7 @@ Output
 
 ---
 
-##Conclusion
+## Conclusion
 
 This project demonstrates the successful implementation of a basic network sniffer and provides a strong foundation for advanced topics such as intrusion detection, traffic analysis, and network security monitoring.
 
