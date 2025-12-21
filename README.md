@@ -38,7 +38,7 @@ Output
 
 Packet details are shown in the terminal
 ```
-sniffer_log_2025-12-21_13-17-00.csv
+sniffer_log_YYYY-MM-DD_HH-mm-ss.csv
 ```
 
 ---
