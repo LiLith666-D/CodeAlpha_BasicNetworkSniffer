@@ -26,7 +26,7 @@ The captured packet data is also saved into CSV files for later analysis.
 ---
 
 ## How to Run
-1. Install required dependencies:
+1.Install required dependencies:
 ```bash
 pip3 install -r requirements.txt
 ```
@@ -34,7 +34,7 @@ pip3 install -r requirements.txt
 ```
 sudo python3 -m src.sniffer
 ```
-##Output
+Output
 
 Packet details are shown in the terminal
 ```
