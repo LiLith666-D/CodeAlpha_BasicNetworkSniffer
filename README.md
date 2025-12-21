@@ -1,16 +1,21 @@
 Basic Network Sniffer using Python
 
 Overview
-This project implements a basic network sniffer using Python and the Scapy library on Kali Linux.  
+This project implements a basic network sniffer using Python and the Scapy library on Kali Linux. 
 The application captures live network traffic, analyzes packet structure, identifies transport layer protocols, and displays meaningful packet information in a structured table format.  
 Captured packet data is also stored in automatically generated CSV files for offline analysis.
 
 Objectives
 -> Capture live network traffic packets
+
 -> Analyze packet structure and content
+
 -> Understand how data flows through a network
+
 -> Identify common transport layer protocols
+
 -> Store captured network data for further analysis
+
 
 
 Technologies Used
