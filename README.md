@@ -37,7 +37,7 @@ sudo python3 -m src.sniffer
 Output
 
 - Packet details are shown in the terminal
-- Saved as output/sniffer_log_YYYY-MM-DD_hh-mm-ss.csv for later analysis
+- Saved as  "output/sniffer_log_YYYY-MM-DD_hh-mm-ss.csv"  for later analysis
 
 ---
 
