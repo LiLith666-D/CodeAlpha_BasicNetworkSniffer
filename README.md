@@ -38,7 +38,7 @@ Output
 
 -> Packet details are shown in the terminal
 
--> Save in output/sniffer_log_YYYY-MM-DD_HH-mm-ss.csv
+-> Save in output/sniffer_log_YYYY-MM-DD_hh-mm-ss.csv
 
 ---
 
