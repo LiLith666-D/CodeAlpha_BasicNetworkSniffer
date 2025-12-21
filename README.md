@@ -41,6 +41,8 @@ Packet details are shown in the terminal
 sniffer_log_2025-12-21_13-17-00.csv
 ```
 
+---
+
 Learning Outcomes
 
 -> Practical understanding of network packet structures
@@ -53,11 +55,14 @@ Learning Outcomes
 
 -> Improved fundamentals of networking and cybersecurity 
 
+---
+
 Conclusion
 
 This project demonstrates the successful implementation of a basic network sniffer and provides a strong foundation for advanced topics such as intrusion detection, traffic analysis, and network security monitoring.
 
+---
+
 Author
 LiLith666
-
 CodeAlpha Cyber Security Internship – Task 1
