@@ -30,11 +30,11 @@ The captured packet data is also saved into CSV files for later analysis.
 ```bash
 pip3 install -r requirements.txt
 ```
-Run the sniffer (root access required):
+2.Run the sniffer (root access required):
 ```
 sudo python3 -m src.sniffer
 ```
-Output
+##Output
 
 Packet details are shown in the terminal
 ```
@@ -43,7 +43,7 @@ sniffer_log_2025-12-21_13-17-00.csv
 
 ---
 
-Learning Outcomes
+##Learning Outcomes
 
 -> Practical understanding of network packet structures
 
@@ -57,7 +57,7 @@ Learning Outcomes
 
 ---
 
-Conclusion
+##Conclusion
 
 This project demonstrates the successful implementation of a basic network sniffer and provides a strong foundation for advanced topics such as intrusion detection, traffic analysis, and network security monitoring.
 
