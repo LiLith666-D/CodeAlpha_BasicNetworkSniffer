@@ -58,5 +58,5 @@ This project demonstrates the successful implementation of a basic network sniff
 ---
 
 ## Author
-- LiLith666
+- Dheekshita R
 - CodeAlpha Cyber Security Internship – Task 1
