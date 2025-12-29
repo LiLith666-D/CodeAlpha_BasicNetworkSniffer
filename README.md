@@ -51,12 +51,15 @@ Output
 
 ---
 
+## Author
+Dheekshita R
+
+---
+
 ## Conclusion
 
 This project demonstrates the successful implementation of a basic network sniffer and provides a strong foundation for advanced topics such as intrusion detection, traffic analysis, and network security monitoring.
 
----
 
-## Author
-- Dheekshita R
-- CodeAlpha Cyber Security Internship – Task 1
+
+
