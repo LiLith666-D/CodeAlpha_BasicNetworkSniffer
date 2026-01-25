@@ -56,3 +56,9 @@ Output
 This project demonstrates the successful implementation of a basic network sniffer and provides a strong foundation for advanced topics such as intrusion detection, traffic analysis, and network security monitoring.
 
 ---
+
+## Author
+
+Dheekshita R
+
+---
